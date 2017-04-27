@@ -21,4 +21,15 @@ public class SubStrings
 }
 }
 	
+//output
+//s
+//sa
+//sam
+//samp
+//sampl
+//sample
+//samplet
+//samplete
+//sampletex
+//sampletext
 
